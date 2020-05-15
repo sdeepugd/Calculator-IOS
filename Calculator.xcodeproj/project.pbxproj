@@ -15,6 +15,7 @@
 		FDFA556B246F1CE100EE4ED2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDFA556A246F1CE100EE4ED2 /* Assets.xcassets */; };
 		FDFA556E246F1CE100EE4ED2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDFA556C246F1CE100EE4ED2 /* LaunchScreen.storyboard */; };
 		FDFA5579246F1CE100EE4ED2 /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDFA5578246F1CE100EE4ED2 /* CalculatorUITests.swift */; };
+		FDFA5584246F23BB00EE4ED2 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDFA5583246F23BB00EE4ED2 /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		FDFA5574246F1CE100EE4ED2 /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDFA5578246F1CE100EE4ED2 /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		FDFA557A246F1CE100EE4ED2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDFA5583246F23BB00EE4ED2 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				FDFA5560246F1CE000EE4ED2 /* SceneDelegate.swift */,
 				FDFA5562246F1CE000EE4ED2 /* ViewController.swift */,
 				FDFA5564246F1CE000EE4ED2 /* Main.storyboard */,
+				FDFA5583246F23BB00EE4ED2 /* ButtonView.swift */,
 				FDFA556A246F1CE100EE4ED2 /* Assets.xcassets */,
 				FDFA556C246F1CE100EE4ED2 /* LaunchScreen.storyboard */,
 				FDFA556F246F1CE100EE4ED2 /* Info.plist */,
@@ -205,6 +208,7 @@
 			files = (
 				FDFA5563246F1CE000EE4ED2 /* ViewController.swift in Sources */,
 				FDFA5569246F1CE000EE4ED2 /* Calculator.xcdatamodeld in Sources */,
+				FDFA5584246F23BB00EE4ED2 /* ButtonView.swift in Sources */,
 				FDFA555F246F1CE000EE4ED2 /* AppDelegate.swift in Sources */,
 				FDFA5561246F1CE000EE4ED2 /* SceneDelegate.swift in Sources */,
 			);
